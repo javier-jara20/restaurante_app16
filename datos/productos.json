@@ -1,0 +1,114 @@
+[
+    {
+        "codigo": "p002",
+        "nombre": "Leche entera la vaquita",
+        "categoria": "lacteos",
+        "precio": 1.35,
+        "stock": 20
+    },
+    {
+        "codigo": "p004",
+        "nombre": "pan integral",
+        "categoria": "panaderia",
+        "precio": 3.5,
+        "stock": 70
+    },
+    {
+        "codigo": "p005",
+        "nombre": "coca cola",
+        "categoria": "bebidas",
+        "precio": 1.45,
+        "stock": 15
+    },
+    {
+        "codigo": "p007",
+        "nombre": "deterjente deja",
+        "categoria": "limpieza",
+        "precio": 3.2,
+        "stock": 40
+    },
+    {
+        "codigo": "p008",
+        "nombre": "arroz",
+        "categoria": "granos",
+        "precio": 11.5,
+        "stock": 7
+    },
+    {
+        "codigo": "p009",
+        "nombre": "lentejas",
+        "categoria": "granos",
+        "precio": 1.1,
+        "stock": 9
+    },
+    {
+        "codigo": "p0011",
+        "nombre": "corvina",
+        "categoria": "mariscos",
+        "precio": 3.5,
+        "stock": 18
+    },
+    {
+        "codigo": "p0012",
+        "nombre": "vino",
+        "categoria": "bebidas",
+        "precio": 12.4,
+        "stock": 29
+    },
+    {
+        "codigo": "p001",
+        "nombre": "queso",
+        "categoria": "lacteos",
+        "precio": 4.75,
+        "stock": 10
+    },
+    {
+        "codigo": "p0014",
+        "nombre": "seviche de camaron",
+        "categoria": "mariscos",
+        "precio": 6.5,
+        "stock": 20
+    },
+    {
+        "codigo": "p0015",
+        "nombre": "repe lojano",
+        "categoria": "sopa",
+        "precio": 4.5,
+        "stock": 20
+    },
+    {
+        "codigo": "p0016",
+        "nombre": "tamal",
+        "categoria": "cafetería",
+        "precio": 0.75,
+        "stock": 200
+    },
+    {
+        "codigo": "p0017",
+        "nombre": "humas",
+        "categoria": "cafetería",
+        "precio": 0.75,
+        "stock": 150
+    },
+    {
+        "codigo": "p0018",
+        "nombre": "gallina cuyada",
+        "categoria": "comida criolla",
+        "precio": 4.5,
+        "stock": 10
+    },
+    {
+        "codigo": "p0019",
+        "nombre": "fritada",
+        "categoria": "comida criolla",
+        "precio": 3.5,
+        "stock": 10
+    },
+    {
+        "codigo": "p0020",
+        "nombre": "tilapia",
+        "categoria": "pescados/mariscos",
+        "precio": 4.5,
+        "stock": 15
+    }
+]

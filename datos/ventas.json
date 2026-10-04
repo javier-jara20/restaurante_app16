@@ -1,0 +1,22 @@
+[
+    {
+        "usuario": "maria rojas",
+        "producto": "coca cola",
+        "fecha": "2026-10-01 20:52:20"
+    },
+    {
+        "usuario": "luciana tobar",
+        "producto": "gallina cuyada",
+        "fecha": "2026-10-01 21:21:30"
+    },
+    {
+        "usuario": "vanessa perez",
+        "producto": "tilapia",
+        "fecha": "2026-10-01 21:21:47"
+    },
+    {
+        "usuario": "miguel alvarez",
+        "producto": "gallina cuyada",
+        "fecha": "2026-10-02 20:33:10"
+    }
+]

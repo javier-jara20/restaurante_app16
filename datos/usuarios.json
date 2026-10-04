@@ -1,0 +1,72 @@
+[
+    {
+        "identificacion": "1105278700",
+        "nombre": "javier Jaramillo",
+        "correo": "javier@gmail.com",
+        "contrasena": "javier123",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "1105278701",
+        "nombre": "jose hurtado",
+        "correo": "jose12@gmail.com",
+        "contrasena": "jose123",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "1105278702",
+        "nombre": "maria rojas",
+        "correo": "maria23ro@gmail.com",
+        "contrasena": "maria123",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1105278703",
+        "nombre": "fernado jimenez",
+        "correo": "fernajim@gmail.com",
+        "contrasena": "fernando123",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "1105278704",
+        "nombre": "luciana tobar",
+        "correo": "lucy4to@gmail.com",
+        "contrasena": "luciana123",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1105278705",
+        "nombre": "vanessa perez",
+        "correo": "vaneper34@gmail.com",
+        "contrasena": "vanessa123",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1105278706",
+        "nombre": "selena Gomez",
+        "correo": "selegomz@gmail.com",
+        "contrasena": "selena123",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1105278708",
+        "nombre": "miguel alvarez",
+        "correo": "miguealv@gmail.com",
+        "contrasena": "miguel123",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "1105278710",
+        "nombre": "miria",
+        "correo": "miria3@gmail.com",
+        "contrasena": "admin",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1105278711",
+        "nombre": "vitaliano",
+        "correo": "vita@gmail.com",
+        "contrasena": "vita123",
+        "rol": "Empleado"
+    }
+]
